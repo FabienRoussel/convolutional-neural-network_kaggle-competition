@@ -20,6 +20,8 @@ In order to taste assembling, I chose to defined 5 different models, each more o
 
 I succeeded in obtaining 68% accuracy on the test set which is not very satisfying but is promising for the upcoming changes.
 
+For a complete overview of my appoach of the problem, please see the report [here](Report_French_version_Deep_Learning.pdf) (in french only).
+
 ## Improvement of the models
 
 *Upcoming..*
